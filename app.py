@@ -1,7 +1,10 @@
 # app.py — NutriVision (Groq Vision, current models)
 
 from dotenv import load_dotenv
-import os, io, base64, requests
+import os
+import io
+import base64
+import requests
 from PIL import Image
 import streamlit as st
 

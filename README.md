@@ -164,3 +164,6 @@ Happy learning
 **Lavanya Srivastava**
 *(AI Developer | Educator | Health-Tech Innovator)*
 
+## License
+
+MIT, see [LICENSE](LICENSE). Built by [Lavanya Srivastava](https://github.com/lavanya1402), Lavanya AI Consultancy.

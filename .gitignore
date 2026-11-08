@@ -67,3 +67,6 @@ logs/
 # ------------------------------
 *.DS_Store
 desktop.ini
+.ruff_cache/
+.pytest_cache/
+!.env.example
